@@ -14,7 +14,7 @@ En este repositorio tenemos una demostración de la creación del recurso de Azu
 ---
 
 ## Importante
-- 
+- Azure Sentinel, nos ayuda a detectar amenazas.
 
 ---
 
